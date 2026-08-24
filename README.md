@@ -1,5 +1,4 @@
-
-<h1 align="center">
+ <h1 align="center">
   Hi, I'm Liz Contreras 👋
 </h1>
 
@@ -32,7 +31,7 @@ My experience includes software development, database integration, IoT projects,
 - 🤖 IoT & Automation
 - 👁️ Computer Vision
 - 🔧 Technical Troubleshooting & Diagnostics
-- 📚 Continuous learning and professional growth
+- 📚 Continuous Learning & Professional Development
 
 ---
 
@@ -80,7 +79,7 @@ My experience includes software development, database integration, IoT projects,
 
 ### 🗄️ Database & Application Development
 
-Development of applications focused on **data management, CRUD operations, database integration, and business logic**.
+Applications focused on **data management, CRUD operations, database integration, and business logic**.
 
 **Technologies:** SQL · MySQL · PostgreSQL · PHP · Laravel · JavaScript
 
@@ -96,7 +95,7 @@ Projects involving **ESP32, sensors, wireless communication, monitoring, and aut
 
 ### 👁️ Computer Vision
 
-Projects focused on image processing and computer vision using Python and OpenCV.
+Projects focused on **image processing and computer vision** using Python and OpenCV.
 
 **Technologies:** Python · OpenCV · MediaPipe · Computer Vision
 
@@ -104,7 +103,7 @@ Projects focused on image processing and computer vision using Python and OpenCV
 
 ### 📱 QR & Database Applications
 
-Mobile applications integrating QR functionality with structured data and database concepts.
+Mobile applications integrating **QR functionality, structured data, and database management**.
 
 **Technologies:** Flutter · Dart · SQL · CRUD · QR
 
@@ -112,7 +111,7 @@ Mobile applications integrating QR functionality with structured data and databa
 
 ### 🌐 Web & Backend Applications
 
-Web and backend projects developed using modern programming frameworks and technologies.
+Web and backend projects developed using modern frameworks and technologies.
 
 **Technologies:** Laravel · Node.js · Vue.js · JavaScript · PHP
 
@@ -122,7 +121,7 @@ Web and backend projects developed using modern programming frameworks and techn
 
 ### 🔧 Junior Engineer — FA Equipment Diagnostics
 
-Experience in **equipment diagnostics, troubleshooting, error analysis, technical problem solving, and process support** within an industrial environment.
+Experience in **equipment diagnostics, troubleshooting, error analysis, technical problem-solving, and process support** within an industrial environment.
 
 ### 🌐 IT & Network Infrastructure
 
@@ -131,8 +130,8 @@ Experience with:
 - Network infrastructure
 - IP addressing
 - LAN configuration
-- Wireless access points
-- Switches
+- Wireless Access Points
+- Network switches
 - Connectivity testing
 - Technical troubleshooting
 - Video surveillance systems
@@ -169,7 +168,7 @@ PostgreSQL & SQL
         ↓
 Software Architecture
         ↓
-Testing
+Testing & Debugging
         ↓
 Docker & Linux
         ↓
