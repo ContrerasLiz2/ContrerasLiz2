@@ -150,36 +150,11 @@ Sensors
 Automation
 Wireless
 Embedded Systems
-
 </td>
-
 </tr>
 </table>
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ContrerasLiz2">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ContrerasLiz2&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true&bg_color=050816&title_color=22D3EE&icon_color=A78BFA"/>
-
-</a>
-
-<a href="https://github.com/ContrerasLiz2">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ContrerasLiz2&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true&bg_color=050816&title_color=22D3EE&icon_color=A78BFA"/>
-
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ## 📊 GITHUB ACTIVITY
@@ -195,23 +170,6 @@ Embedded Systems
 </div>
 
 ---
-
-<div align="center">
-
-## 🐍 CONTRIBUTIONS
-
-<img src="https://raw.githubusercontent.com/ContrerasLiz2/ContrerasLiz2/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=06b6d4&height=3&section=footer" width="80%"/>
-
-<br><br>
-
 ### `Code • Data • Systems • Networks • IoT`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Always+learning.;Always+building.;Always+debugging.+%E2%9A%A1" alt="Closing animation"/>
