@@ -1,41 +1,74 @@
- <h1 align="center">
-  Hi, I'm Liz Contreras 👋
-</h1>
 
-<h3 align="center">
-  Computer Engineer | Software & IT | Backend | Databases
-</h3>
+<!-- ================= HEADER ================= -->
 
-<p align="center">
-  <a href="https://github.com/ContrerasLiz2">
-    <img src="https://komarev.com/ghpvc/?username=ContrerasLiz2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lizeth-contreras-10879b270/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Liz%20Contreras&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Software%20%26%20IT&descAlignY=60&descSize=18"/>
+
+  <!-- 👩‍💻 GIF: chica informática saludando -->
+  <img src="./assets/coding-girl.gif" width="190" alt="Computer girl waving"/>
+
+  <h1>Hi, I'm Liz Contreras 👋</h1>
+
+  <h3>
+    Computer Engineer | Software & IT | Backend | Databases
+  </h3>
+
+  <p>
+    <i>Building systems, solving problems, and learning every day.</i>
+  </p>
+
+  <p>
+    <a href="https://github.com/ContrerasLiz2">
+      <img src="https://komarev.com/ghpvc/?username=ContrerasLiz2&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile Views"/>
+    </a>
+    <a href="https://www.linkedin.com/in/lizeth-contreras-10879b270/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
+
+</div>
 
 ---
+
+<!-- ================= ABOUT ME ================= -->
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Engineer specialized in Information Technology**, passionate about software development, databases, IT infrastructure, automation, and technology-driven solutions.
+```python
+class ComputerEngineer:
 
-I enjoy building practical applications that connect **software, data, systems, and infrastructure** to solve real-world problems.
+    name = "Liz Contreras"
+    role = "Computer Engineer"
+    specialization = "Information Technology"
 
-My experience includes software development, database integration, IoT projects, networking, troubleshooting, computer vision, and technical diagnostics.
+    interests = [
+        "Software Development",
+        "Backend Engineering",
+        "Databases",
+        "IT Infrastructure",
+        "Networking",
+        "IoT & Automation",
+        "Technical Diagnostics"
+    ]
 
-- 💻 Software Development & Backend
-- 🗄️ Databases & Data Management
-- 🌐 IT Infrastructure & Networking
-- 🤖 IoT & Automation
-- 👁️ Computer Vision
-- 🔧 Technical Troubleshooting & Diagnostics
-- 📚 Continuous Learning & Professional Development
+    mindset = "Continuous learning"
+
+    def solve_problems(self):
+        return "Code + Logic + Creativity"
+```
+
+I'm a **Computer Engineer specialized in Information Technology**, passionate about software development, backend systems, databases, networking, IoT, and technology-driven solutions.
+
+I enjoy building practical applications, understanding how systems work, and solving technical problems through programming and infrastructure.
+
+My goal is to continue growing as an engineer while developing solutions that connect **software, data, systems, and networks**.
 
 ---
 
-## 🛠️ Technologies & Tools
+<!-- ================= TECH STACK ================= -->
+
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
@@ -43,7 +76,7 @@ My experience includes software development, database integration, IoT projects,
   <img src="https://skillicons.dev/icons?i=python,java,php,js,cs,c,cpp" />
 </p>
 
-### 🌐 Web & Backend Development
+### 🌐 Web & Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,vue,html,css" />
@@ -55,16 +88,26 @@ My experience includes software development, database integration, IoT projects,
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
+### 🌐 Networks & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github" />
+</p>
+
+```text
+Networking
+├── IP Addressing
+├── LAN Configuration
+├── Wireless Access Points
+├── Network Switches
+├── Connectivity Testing
+└── Technical Troubleshooting
+```
+
 ### 🤖 IoT & Embedded Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,cpp" />
-</p>
-
-### 🐧 Systems, Tools & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,python" />
 </p>
 
 ### 📱 Mobile Development
@@ -75,101 +118,221 @@ My experience includes software development, database integration, IoT projects,
 
 ---
 
+<!-- ================= TERMINAL ================= -->
+
+## ⚡ Developer Terminal
+
+```bash
+$ whoami
+
+Liz Contreras
+
+$ cat skills.txt
+
+[+] Software Development
+[+] Backend Engineering
+[+] Database Management
+[+] Networking
+[+] IoT
+[+] Linux
+[+] Technical Diagnostics
+
+$ status
+
+> Learning
+> Building
+> Debugging
+> Improving
+
+$ echo "Never stop learning"
+
+Never stop learning 🚀
+```
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
 ## 🚀 Featured Projects
 
-### 🗄️ Database & Application Development
+<table>
+<tr>
+<td width="50%">
 
-Applications focused on **data management, CRUD operations, database integration, and business logic**.
+<h3 align="center">🗄️ Database Applications</h3>
 
-**Technologies:** SQL · MySQL · PostgreSQL · PHP · Laravel · JavaScript
+<p align="center">
+  Applications focused on CRUD operations, business logic, and database integration.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,postgres" />
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🤖 IoT Monitoring</h3>
+
+<p align="center">
+  ESP32 projects with sensors, wireless communication, monitoring, and automation.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,python" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3 align="center">👁️ Computer Vision</h3>
+
+<p align="center">
+  Image processing and computer vision applications using Python and OpenCV.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🌐 Web & Backend</h3>
+
+<p align="center">
+  Web applications, APIs, backend logic, and modern development frameworks.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,vue,js" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤖 IoT Monitoring System
-
-Projects involving **ESP32, sensors, wireless communication, monitoring, and automation**.
-
-**Technologies:** ESP32 · C/C++ · Python · IoT · Wi-Fi
-
----
-
-### 👁️ Computer Vision
-
-Projects focused on **image processing and computer vision** using Python and OpenCV.
-
-**Technologies:** Python · OpenCV · MediaPipe · Computer Vision
-
----
-
-### 📱 QR & Database Applications
-
-Mobile applications integrating **QR functionality, structured data, and database management**.
-
-**Technologies:** Flutter · Dart · SQL · CRUD · QR
-
----
-
-### 🌐 Web & Backend Applications
-
-Web and backend projects developed using modern frameworks and technologies.
-
-**Technologies:** Laravel · Node.js · Vue.js · JavaScript · PHP
-
----
+<!-- ================= EXPERIENCE ================= -->
 
 ## 💼 Professional Experience
 
 ### 🔧 Junior Engineer — FA Equipment Diagnostics
 
-Experience in **equipment diagnostics, troubleshooting, error analysis, technical problem-solving, and process support** within an industrial environment.
+Experience in an industrial environment focused on:
+
+- Equipment diagnostics and troubleshooting.
+- Error analysis and technical problem-solving.
+- Software and hardware testing.
+- Linux / CentOS / Red Hat fundamentals.
+- Network connectivity and debugging.
+- Log interpretation and process support.
 
 ### 🌐 IT & Network Infrastructure
 
 Experience with:
 
-- Network infrastructure
-- IP addressing
-- LAN configuration
-- Wireless Access Points
-- Network switches
-- Connectivity testing
-- Technical troubleshooting
-- Video surveillance systems
-- NVR configuration
-- Network diagnostics
+- IP addressing and LAN configuration.
+- Wireless Access Points and network switches.
+- Network diagnostics and connectivity testing.
+- Video surveillance systems.
+- NVR configuration.
+- Network planning and infrastructure.
 
 ### 💻 Software Development
 
-Experience developing applications and academic projects using:
-
-- Python
-- Java
-- PHP
-- JavaScript
-- C/C++
-- C#
-- Laravel
-- Node.js
-- Vue.js
-- SQL / NoSQL
+Experience with Python, Java, PHP, JavaScript, C/C++, C#, Laravel, Node.js, Vue.js, SQL, and NoSQL.
 
 ---
+
+<!-- ================= LEARNING ================= -->
 
 ## 📚 Currently Learning
 
 ```text
-Backend Development
-        ↓
-REST APIs
-        ↓
-Database Design
-        ↓
-PostgreSQL & SQL
-        ↓
-Software Architecture
-        ↓
-Testing & Debugging
-        ↓
-Docker & Linux
-        ↓
-CI/CD
+                    ┌───────────────────────┐
+                    │   BACKEND DEVELOPMENT  │
+                    └───────────┬───────────┘
+                                │
+                                ▼
+                    ┌───────────────────────┐
+                    │        REST APIs      │
+                    └───────────┬───────────┘
+                                │
+                                ▼
+                    ┌───────────────────────┐
+                    │     DATABASE DESIGN   │
+                    └───────────┬───────────┘
+                                │
+                                ▼
+                    ┌───────────────────────┐
+                    │   SOFTWARE ARCHITECTURE│
+                    └───────────┬───────────┘
+                                │
+                                ▼
+                    ┌───────────────────────┐
+                    │    TESTING & DEBUGGING│
+                    └───────────────────────┘
+```
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ContrerasLiz2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ContrerasLiz2&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=ContrerasLiz2&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ================= ACTIVITY ================= -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/ContrerasLiz2/ContrerasLiz2/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/lizeth-contreras-10879b270/">
+    <img src="https://img.shields.io/badge/LinkedIn-Liz%20Contreras-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="https://github.com/ContrerasLiz2">
+    <img src="https://img.shields.io/badge/GitHub-ContrerasLiz2-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer"/>
+
+</div>
