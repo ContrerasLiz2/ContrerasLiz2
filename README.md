@@ -1,338 +1,128 @@
 
-<!-- ================= HEADER ================= -->
+<!-- ===================================================== -->
+<!--                 LIZ CONTRERAS                         -->
+<!--             NEON DEVELOPER PROFILE                    -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Liz%20Contreras&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Software%20%26%20IT&descAlignY=60&descSize=18"/>
+<!-- ANIMATED NEON HEADER -->
 
-  <!-- 👩‍💻 GIF: chica informática saludando -->
-  <img src="./assets/coding-girl.gif" width="190" alt="Computer girl waving"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:172554,75:4c1d95,100:06b6d4&height=230&section=header&text=LIZ%20CONTRERAS&fontSize=56&fontColor=67e8f9&fontAlignY=38&desc=COMPUTER%20ENGINEER%20%7C%20SOFTWARE%20%26%20IT&descAlignY=61&descSize=18&animation=twinkling"/>
 
-  <h1>Hi, I'm Liz Contreras 👋</h1>
+<!-- ANIMATED TYPING -->
 
-  <h3>
-    Computer Engineer | Software & IT | Backend | Databases
-  </h3>
+<a href="https://github.com/ContrerasLiz2">
 
-  <p>
-    <i>Building systems, solving problems, and learning every day.</i>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Computer+Engineer+%F0%9F%92%BB;Backend+Developer+%7C+Databases;Networking+%7C+IT+Infrastructure;IoT+%7C+Automation+%7C+Linux;Code.+Connect.+Create.+Repeat.+%E2%9A%A1" alt="Animated typing"/>
 
-  <p>
-    <a href="https://github.com/ContrerasLiz2">
-      <img src="https://komarev.com/ghpvc/?username=ContrerasLiz2&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile Views"/>
-    </a>
-    <a href="https://www.linkedin.com/in/lizeth-contreras-10879b270/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
+</a>
+
+<!-- PROGRAMMER GIF -->
+
+<img src="./assets/coding-girl.gif" width="210" alt="Computer engineer waving"/>
+
+<br>
+
+<!-- SOCIAL BADGES -->
+
+<a href="https://github.com/ContrerasLiz2">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lizeth-contreras-10879b270/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lizethcontreras@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ContrerasLiz2&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge"/>
 
 </div>
 
----
+<!-- NEON DIVIDER -->
 
-<!-- ================= ABOUT ME ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=06b6d4&height=3"/>
 
-## 👩‍💻 About Me
+<br>
 
-```python
-class ComputerEngineer:
-
-    name = "Liz Contreras"
-    role = "Computer Engineer"
-    specialization = "Information Technology"
-
-    interests = [
-        "Software Development",
-        "Backend Engineering",
-        "Databases",
-        "IT Infrastructure",
-        "Networking",
-        "IoT & Automation",
-        "Technical Diagnostics"
-    ]
-
-    mindset = "Continuous learning"
-
-    def solve_problems(self):
-        return "Code + Logic + Creativity"
-```
-
-I'm a **Computer Engineer specialized in Information Technology**, passionate about software development, backend systems, databases, networking, IoT, and technology-driven solutions.
-
-I enjoy building practical applications, understanding how systems work, and solving technical problems through programming and infrastructure.
-
-My goal is to continue growing as an engineer while developing solutions that connect **software, data, systems, and networks**.
-
----
-
-<!-- ================= TECH STACK ================= -->
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,cs,c,cpp" />
-</p>
-
-### 🌐 Web & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,vue,html,css" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-### 🌐 Networks & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github" />
-</p>
-
-```text
-Networking
-├── IP Addressing
-├── LAN Configuration
-├── Wireless Access Points
-├── Network Switches
-├── Connectivity Testing
-└── Technical Troubleshooting
-```
-
-### 🤖 IoT & Embedded Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,python" />
-</p>
-
-### 📱 Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
----
-
-<!-- ================= TERMINAL ================= -->
-
-## ⚡ Developer Terminal
-
-```bash
-$ whoami
-
-Liz Contreras
-
-$ cat skills.txt
-
-[+] Software Development
-[+] Backend Engineering
-[+] Database Management
-[+] Networking
-[+] IoT
-[+] Linux
-[+] Technical Diagnostics
-
-$ status
-
-> Learning
-> Building
-> Debugging
-> Improving
-
-$ echo "Never stop learning"
-
-Never stop learning 🚀
-```
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">🗄️ Database Applications</h3>
-
-<p align="center">
-  Applications focused on CRUD operations, business logic, and database integration.
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,postgres" />
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🤖 IoT Monitoring</h3>
-
-<p align="center">
-  ESP32 projects with sensors, wireless communication, monitoring, and automation.
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,python" />
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3 align="center">👁️ Computer Vision</h3>
-
-<p align="center">
-  Image processing and computer vision applications using Python and OpenCV.
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🌐 Web & Backend</h3>
-
-<p align="center">
-  Web applications, APIs, backend logic, and modern development frameworks.
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,vue,js" />
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ================= EXPERIENCE ================= -->
-
-## 💼 Professional Experience
-
-### 🔧 Junior Engineer — FA Equipment Diagnostics
-
-Experience in an industrial environment focused on:
-
-- Equipment diagnostics and troubleshooting.
-- Error analysis and technical problem-solving.
-- Software and hardware testing.
-- Linux / CentOS / Red Hat fundamentals.
-- Network connectivity and debugging.
-- Log interpretation and process support.
-
-### 🌐 IT & Network Infrastructure
-
-Experience with:
-
-- IP addressing and LAN configuration.
-- Wireless Access Points and network switches.
-- Network diagnostics and connectivity testing.
-- Video surveillance systems.
-- NVR configuration.
-- Network planning and infrastructure.
-
-### 💻 Software Development
-
-Experience with Python, Java, PHP, JavaScript, C/C++, C#, Laravel, Node.js, Vue.js, SQL, and NoSQL.
-
----
-
-<!-- ================= LEARNING ================= -->
-
-## 📚 Currently Learning
-
-```text
-                    ┌───────────────────────┐
-                    │   BACKEND DEVELOPMENT  │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │        REST APIs      │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │     DATABASE DESIGN   │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │   SOFTWARE ARCHITECTURE│
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │    TESTING & DEBUGGING│
-                    └───────────────────────┘
-```
-
----
-
-<!-- ================= GITHUB STATS ================= -->
-
-## 📊 GitHub Statistics
+<!-- ===================================================== -->
+<!--                   TECH STACK                          -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ContrerasLiz2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+## ⚡ TECH STACK
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ContrerasLiz2&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://skillicons.dev/icons?i=python,java,php,js,cs,c,cpp,laravel,nodejs,vue,mysql,postgres,mongodb,linux,docker,git,github,arduino,flutter&perline=7"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BACKEND-0f172a?style=for-the-badge&logo=server&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/DATABASES-0f172a?style=for-the-badge&logo=postgresql&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/NETWORKING-0f172a?style=for-the-badge&logo=cisco&logoColor=818cf8"/>
+<img src="https://img.shields.io/badge/IoT-0f172a?style=for-the-badge&logo=arduino&logoColor=22d3ee"/>
 
 </div>
 
 <br>
 
+<!-- ===================================================== -->
+<!--                TERMINAL ANIMATION                     -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=ContrerasLiz2&theme=tokyonight&hide_border=true" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2200&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%24+Initializing+developer+environment...;%24+Loading+Python%2C+SQL%2C+Linux...;%24+Connecting+networks...;%24+Debugging+the+future...;%24+System+ready+%E2%9C%93" alt="Terminal animation"/>
 
 </div>
 
----
+<br>
 
-<!-- ================= ACTIVITY ================= -->
-
-## 🐍 Contribution Activity
+<!-- ===================================================== -->
+<!--                GITHUB ANALYTICS                       -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/ContrerasLiz2/ContrerasLiz2/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+## 📊 GITHUB ANALYTICS
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ContrerasLiz2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ContrerasLiz2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=CBD5E1"/>
+
+<br><br>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=ContrerasLiz2&theme=tokyonight&hide_border=true&background=0B1120&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE"/>
 
 </div>
 
----
+<br>
 
-<!-- ================= CONNECT ================= -->
-
-## 🌐 Let's Connect
+<!-- ===================================================== -->
+<!--              CONTRIBUTION ANIMATION                   -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/lizeth-contreras-10879b270/">
-    <img src="https://img.shields.io/badge/LinkedIn-Liz%20Contreras-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
+## 🐍 CONTRIBUTION ACTIVITY
 
-  <a href="https://github.com/ContrerasLiz2">
-    <img src="https://img.shields.io/badge/GitHub-ContrerasLiz2-181717?style=for-the-badge&logo=github"/>
-  </a>
+<img src="https://raw.githubusercontent.com/ContrerasLiz2/ContrerasLiz2/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
 
-  <br><br>
+</div>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer"/>
+<br>
+
+<!-- ===================================================== -->
+<!--                  CONNECT                              -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:050816&height=130&section=footer&animation=twinkling"/>
 
 </div>
